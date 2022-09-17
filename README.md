@@ -1,2 +1,2 @@
 # Tugas_Pemrograman-Dasar-2
-Untuk menterjemahkan Buku "Big Java"
+- Tugas 1 : Tugas menterjemahkan Buku "Big Java"
